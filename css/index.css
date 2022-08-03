@@ -390,6 +390,7 @@ form span{
   .home-text p{
    position: relative;
     left: 0;
+    color: #FFF;
     width: 250px;
   }
   .about{
