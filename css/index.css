@@ -385,12 +385,12 @@ form span{
     clip-path: circle(144% at 100% 1%);
   }
   .home-text{
-    width: 450px;
+    width: 350px;
   }
   .home-text p{
-    position: relative;
-    left: 20px;
-    width: 350px;
+   position: relative;
+    left: 0;
+    width: 250px;
   }
   .about{
     display: flex;
